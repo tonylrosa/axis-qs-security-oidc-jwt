@@ -1,4 +1,4 @@
-#OpenID Connect/ODIC sign-on with Qlik Sense
+# OpenID Connect/ODIC sign-on with Qlik Sense
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 Environment
 NodeJS platform with access to an ADFS 4.0 (Windows Server 2016) instance.
 
-####Other
+#### Other
 ```
 -ADFS JWT/Oauth2 support configured
 -Qlik Sense Virtual Proxy configured for JWT authentication method
