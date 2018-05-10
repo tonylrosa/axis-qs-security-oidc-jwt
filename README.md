@@ -1,4 +1,4 @@
-# OpenID Connect/ODIC sign-on with Qlik Sense
+# OpenID Connect/OIDC sign-on with Qlik Sense
 
 ## Getting Started
 
